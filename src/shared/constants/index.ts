@@ -1,0 +1,8 @@
+export {
+  COLOR_SUCCESS,
+  COLOR_ERROR,
+  COLOR_ERROR_DARK,
+  COLOR_ERROR_DARKENED,
+  COLOR_WARNING,
+  COLOR_CARD_BG_MAIN
+} from './styles/colors';
