@@ -2,7 +2,6 @@ import styled from '@emotion/styled';
 
 export const HeaderStyled = styled.header`
   display: flex;
-  /* flex-direction: row; */
   justify-content: space-between;
   padding-bottom: 20px;
   @media (max-width: 830px) {
