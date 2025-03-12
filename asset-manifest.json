@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/kovalsky-marycona/static/css/main.da3ce6db.css",
+    "main.css": "/kovalsky-marycona/static/css/main.6b67ba61.css",
     "main.js": "/kovalsky-marycona/static/js/main.841a0756.js",
     "static/media/soccer-ball.png": "/kovalsky-marycona/static/media/soccer-ball.4448dfc8c21cf6b48d16.png",
     "index.html": "/kovalsky-marycona/index.html",
-    "main.da3ce6db.css.map": "/kovalsky-marycona/static/css/main.da3ce6db.css.map",
+    "main.6b67ba61.css.map": "/kovalsky-marycona/static/css/main.6b67ba61.css.map",
     "main.841a0756.js.map": "/kovalsky-marycona/static/js/main.841a0756.js.map"
   },
   "entrypoints": [
-    "static/css/main.da3ce6db.css",
+    "static/css/main.6b67ba61.css",
     "static/js/main.841a0756.js"
   ]
 }
