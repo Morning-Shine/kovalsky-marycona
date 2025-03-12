@@ -13,10 +13,10 @@
 body {
   background: #06080c;
   color: white;
+  font-family: 'Inter';
 }
 
 p {
-  font-family: Inter;
   font-weight: 600;
   line-height: 100%;
   letter-spacing: 0%;
